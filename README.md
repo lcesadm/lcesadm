@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://www.github.com/lcesadm">
-    <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/lcesadm">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
