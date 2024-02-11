@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&color=58F73D&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hello+World!+My+name+is;Leonardo+Cesar+and+welcome;to+my+GitHub+profile!" alt="Typing SVG" /></a></p>
 
----
+## About me
 
 - :eye::bee::m: I am currently an IBMer Developer! :eye::bee::m:
 - :bulb: I love programming and developing great ideas :bulb:
@@ -9,16 +9,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,ts&perline=3" />
-  </a>
-  <img src="https://bestanimations.com/media/earth-space/1608949954astronaut-in-space-animation-4.gif">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,firebase,py&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,ts" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,postman,arduino,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,firebase,py&perline=1" />
+  </a>
+  <img height=328 src="https://bestanimations.com/media/earth-space/1608949954astronaut-in-space-animation-4.gif">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,postman,arduino,figma&perline=1" />
+</p>
+<p align="center">
   </a>
 </p>
 
