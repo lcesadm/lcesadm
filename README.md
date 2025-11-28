@@ -20,7 +20,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,react,angular,firebase,py&perline=1"/>
   </a>
-  <img height=330 width=220 src="/img/astronaut.gif">
+  <img height="330px !important" width="220px" src="./img/astronaut.gif">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,postman,arduino,figma&perline=1"/>
   </a>
