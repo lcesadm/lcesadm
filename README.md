@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/lcesadm">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="mailto:mendonca_leonardo@hotmail.com">
+  <a href="mailto:lcesadm@outlook.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=microsoft&logoColor=white" alt="My email"/>
   </a>
 </p>
